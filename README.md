@@ -17,7 +17,7 @@ Projeto desenvolvido durante o bootcamp Órbi Games Developer. <br/>
 <br>
 
 <p align="center">
-  <img alt="pokedex" src="./assets/preview.png" width="100%">
+  <img alt="jogo da velha" src="./felpoio.github.io_jogo-da-velha-em-js_%20(1).png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
