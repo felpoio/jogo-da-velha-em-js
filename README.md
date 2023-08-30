@@ -31,8 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto é uma versão do clássico jogo da velha, agora digital e em seu navegador
 
-[Clique aqui para acessar](felpoio.github.io/jogo-da-velha-em-js/)
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
